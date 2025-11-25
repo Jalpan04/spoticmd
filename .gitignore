@@ -1,0 +1,11 @@
+# --- SECRETS (NEVER UPLOAD) ---
+.env
+.cache
+.cache*
+
+# --- LOCAL FILES (Keep on PC, don't upload) ---
+spoticmd.bat
+app.py
+colourful.py
+.venv/
+__pycache__/
