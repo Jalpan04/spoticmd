@@ -306,14 +306,4 @@ git commit -m "Add: feature description"
 
 ## License
 
-This project is licensed under the MIT License. See `LICENSE` file for details.
-
----
-
-## Acknowledgments
-
-Built with:
-- [spotipy](https://spotipy.readthedocs.io/) - Spotify Web API wrapper
-- [Rich](https://rich.readthedocs.io/) - Terminal rendering library
-- [Pillow](https://pillow.readthedocs.io/) - Image processing
-
+This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details.
