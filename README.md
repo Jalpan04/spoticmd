@@ -1,4 +1,6 @@
 # SpotiCMD
+
+![GitHub top language](https://img.shields.io/github/languages/top/Jalpan04/spoticmd) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/spoticmd) [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![Spotify](https://img.shields.io/badge/Spotify-API-1DB954?style=for-the-badge&logo=spotify)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
